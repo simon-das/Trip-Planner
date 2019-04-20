@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "173565427677",
+    "firebase_url": "https://trip-adviser-a530f.firebaseio.com",
+    "project_id": "trip-adviser-a530f",
+    "storage_bucket": "trip-adviser-a530f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173565427677:android:be22ea7a791264d7",
+        "android_client_info": {
+          "package_name": "com.example.tripplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173565427677-1skjua3l0rsh72c1vp32gncu897mjeoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tripplanner",
+            "certificate_hash": "923ecd0f94ca5799adb1361327b3203c7b8c2392"
+          }
+        },
+        {
+          "client_id": "173565427677-pjh3qkkdhk6lq35k4t4jgpjgf6qfftqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRksysoUurqPqvZy3e3D6Tk-VY20mPQB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173565427677-pjh3qkkdhk6lq35k4t4jgpjgf6qfftqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
